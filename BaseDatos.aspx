@@ -63,7 +63,4 @@
         </div>
     </section>
 
-    <section class="py-6">
-    </section>
-
 </asp:Content>
